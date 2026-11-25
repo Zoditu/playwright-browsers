@@ -1,0 +1,1 @@
+Playwright Browsers for Kubernetes Corp proxied server that block CDN downloads.
